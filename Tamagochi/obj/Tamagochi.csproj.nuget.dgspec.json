@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj": {}
+    "c:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj": {}
   },
   "projects": {
-    "C:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj": {
+    "c:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj",
+        "projectUniqueName": "c:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj",
         "projectName": "Tamagochi",
-        "projectPath": "C:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj",
+        "projectPath": "c:\\Programering 2\\Tamagochi\\Tamagochi\\Tamagochi.csproj",
         "packagesPath": "C:\\Users\\david.trossing\\.nuget\\packages\\",
-        "outputPath": "C:\\Programering 2\\Tamagochi\\Tamagochi\\obj\\",
+        "outputPath": "c:\\Programering 2\\Tamagochi\\Tamagochi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
