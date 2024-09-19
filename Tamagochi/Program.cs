@@ -1,0 +1,1 @@
+﻿Tamagotchi tom = new Tamagotchi();
